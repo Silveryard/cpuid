@@ -3,6 +3,7 @@
 //
 // Distributed under the "BSD License". See the accompanying LICENSE.rst file.
 
+#pragma once
 
 #if defined(_WIN32)
 	#if defined(_MSC_VER)
